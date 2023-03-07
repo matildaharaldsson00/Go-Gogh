@@ -1,5 +1,5 @@
 body {
-    background-color: #995D1E;
+    background-color: #69ABA1;
     height: 100vh;
     width: 100vh;
     margin: 0px;
@@ -19,5 +19,5 @@ body {
     height: 70px;
     width: 200px;
     border-radius: 25px;
-    box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.494)
+    box-shadow: 3px 3px 0px 0px rgba(0, 0, 0, 0.494)
 }
