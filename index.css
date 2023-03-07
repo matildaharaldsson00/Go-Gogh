@@ -19,5 +19,12 @@ body {
     height: 70px;
     width: 200px;
     border-radius: 25px;
-    box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.494)
+    box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.494);
+    font-family: "P22 Vincent Regular";
+    font-size: xx-large;
+}
+
+@font-face {
+    font-family: "P22 Vincent Regular";
+    src: url(P22VincentRegular/P22VincentRegular.ttf);
 }
